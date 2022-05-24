@@ -1,0 +1,1 @@
+This are some draft notebook to play with some neural networks and art
